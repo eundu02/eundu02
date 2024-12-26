@@ -4,7 +4,7 @@
 ## 🖥️ Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
-| <p align="center"> 2024.11.13 ~ 2024.12.11 </p> | <p align="center"> Ctrl </p> | 일정 관리 및 동기부여 서비스 | <p align="center"> 프론트엔드<br/>백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
+| <p align="center"> 2024.11.13 ~ 2024.12.11 </p> | <p align="center"> Ctrl </p> | 동기부여 및 자기 통제 서비스 | <p align="center"> 프론트엔드<br/>백엔드 | <p align="center"> 팀 프로젝트<br/></p> |
 | <p align="center"> 2024.12.19 ~ </p> | <p align="center"> Motimate </p> | 학습 관리 및 동기부여 서비스 | <p align="center"> 백엔드 </p> | <p align="center"> 팀 프로젝트<br/></p> |
 <br/>
 
